@@ -1,3 +1,6 @@
 [submodule "rmapi"]
 	path = rmapi
 	url = https://github.com/juruen/rmapi.git
+[submodule "makefiles"]
+	path = makefiles
+	url = https://github.com/dbosk/makefiles.git
